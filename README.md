@@ -148,7 +148,6 @@ This implementation extends the original FastAPI lab with the following improvem
 | Algorithm | Decision Tree | Random Forest Classifier |
 | Accuracy | ~74% | 82% |
 | Features | Basic API | Logging, recommendations, versioning |
-| Documentation | Minimal | Comprehensive with examples |
 
 ## Development
 
@@ -185,9 +184,9 @@ Application logs are stored in `logs/api.log` with the following format:
 
 ## Course Information
 
-- **Course**: DADS 7305 - Machine Learning Operations (MLOps)
+- **Course**: IE7374 - Machine Learning Operations (MLOps)
 - **Institution**: Northeastern University
-- **Term**: Spring 2025
+- **Term**: Fall 2025
 - **Professor**: Ramin Mohammadi
 
 ## Author
